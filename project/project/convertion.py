@@ -13,6 +13,10 @@ def home():
 @app.route("/home/")
 def home1():
     return render_template("home.html")       
+   
+@app.route("/about/")
+def home6():
+    return render_template("about.html")       
     
 @app.route("/iss/")
 def home5():
