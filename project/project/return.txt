@@ -1,9 +1,8 @@
 Dear Roshan kumar 
 
-The following book(s) have been issued :
-Title: Compiler disign
-Accession No.: 5373
-Due Date : 2022-03-2323:59
+The following book(s) have been returned to the library by you:
+Title: compiler
+Accession No.: 5362
 
 Thank you for visiting IITBhilai Library.
 
